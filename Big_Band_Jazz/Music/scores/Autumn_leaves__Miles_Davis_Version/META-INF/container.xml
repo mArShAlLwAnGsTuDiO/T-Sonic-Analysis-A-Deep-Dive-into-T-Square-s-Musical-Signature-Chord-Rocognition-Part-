@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Autumn_leaves__Miles_Davis_Version.mscx"/>
+    <rootfile full-path="Excerpts/Saxophone Alto/Saxophone Alto.mss"/>
+    <rootfile full-path="Excerpts/Saxophone Alto/Saxophone Alto.mscx"/>
+    <rootfile full-path="Excerpts/Piano/Piano.mss"/>
+    <rootfile full-path="Excerpts/Piano/Piano.mscx"/>
+    <rootfile full-path="Excerpts/Contrebasse/Contrebasse.mss"/>
+    <rootfile full-path="Excerpts/Contrebasse/Contrebasse.mscx"/>
+    <rootfile full-path="Excerpts/Batterie/Batterie.mss"/>
+    <rootfile full-path="Excerpts/Batterie/Batterie.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/Saxophone Alto/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Piano/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Contrebasse/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Batterie/viewsettings.json"/>
+    </rootfiles>
+  </container>

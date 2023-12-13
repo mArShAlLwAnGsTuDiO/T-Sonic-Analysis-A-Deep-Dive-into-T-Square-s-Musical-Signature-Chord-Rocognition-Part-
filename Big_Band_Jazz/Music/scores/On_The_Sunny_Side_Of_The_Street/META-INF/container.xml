@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="On_The_Sunny_Side_Of_The_Street.mscx"/>
+    <rootfile full-path="Excerpts/Voice/Voice.mss"/>
+    <rootfile full-path="Excerpts/Voice/Voice.mscx"/>
+    <rootfile full-path="Excerpts/Alto Sax/Alto Sax.mss"/>
+    <rootfile full-path="Excerpts/Alto Sax/Alto Sax.mscx"/>
+    <rootfile full-path="Excerpts/Tenor Sax/Tenor Sax.mss"/>
+    <rootfile full-path="Excerpts/Tenor Sax/Tenor Sax.mscx"/>
+    <rootfile full-path="Excerpts/Baritone Saxophone/Baritone Saxophone.mss"/>
+    <rootfile full-path="Excerpts/Baritone Saxophone/Baritone Saxophone.mscx"/>
+    <rootfile full-path="Excerpts/Trumpet/Trumpet.mss"/>
+    <rootfile full-path="Excerpts/Trumpet/Trumpet.mscx"/>
+    <rootfile full-path="Excerpts/Trombone/Trombone.mss"/>
+    <rootfile full-path="Excerpts/Trombone/Trombone.mscx"/>
+    <rootfile full-path="Excerpts/Piano/Piano.mss"/>
+    <rootfile full-path="Excerpts/Piano/Piano.mscx"/>
+    <rootfile full-path="Excerpts/Electric Bass/Electric Bass.mss"/>
+    <rootfile full-path="Excerpts/Electric Bass/Electric Bass.mscx"/>
+    <rootfile full-path="Excerpts/Drums/Drums.mss"/>
+    <rootfile full-path="Excerpts/Drums/Drums.mscx"/>
+    <rootfile full-path="chordlist.xml"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/Voice/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Alto Sax/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Tenor Sax/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Baritone Saxophone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Trumpet/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Trombone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Piano/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Electric Bass/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Drums/viewsettings.json"/>
+    </rootfiles>
+  </container>
